@@ -27,7 +27,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: production-files
-          path: ./built/client
+          path: ./build/client
 
   deploy:
     name: Deploy
