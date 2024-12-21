@@ -1,0 +1,1 @@
+import{w as e}from"./with-props-BRvT_Vc6.js";import{l as t}from"./chunk-D52XG6IA-BAiBbVq_.js";function l({}){return[{title:"Alegra Visuals Technology - Employment"},{name:"description",content:"Welcome to Alegra Visuals Employment"}]}function o(){return t.jsx("div",{children:"employment"})}const r=e(o);export{r as default,l as meta};

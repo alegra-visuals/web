@@ -1,0 +1,1 @@
+import{w as r}from"./with-props-BRvT_Vc6.js";import{l as o}from"./chunk-D52XG6IA-BAiBbVq_.js";function i({}){return[{title:"Alegra Visuals Technology - Cross Curricular"},{name:"description",content:"Welcome to Alegra Visuals cross curricular"}]}function s(){return o.jsx("div",{children:"cross-curricular"})}const u=r(s);export{u as default,i as meta};

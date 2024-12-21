@@ -1,0 +1,1 @@
+import{w as e}from"./with-props-BRvT_Vc6.js";import{l as r}from"./chunk-D52XG6IA-BAiBbVq_.js";function n({}){return[{title:"Alegra Visuals Technology - Our Unique Features"},{name:"description",content:"Welcome to Alegra Visuals our unique features"}]}function t(){return r.jsx("div",{children:"ourUniqueFeatures"})}const i=e(t);export{i as default,n as meta};

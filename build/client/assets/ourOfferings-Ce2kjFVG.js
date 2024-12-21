@@ -1,0 +1,1 @@
+import{w as r}from"./with-props-BRvT_Vc6.js";import{l as o}from"./chunk-D52XG6IA-BAiBbVq_.js";function i({}){return[{title:"Alegra Visuals Technology - Our Offerings"},{name:"description",content:"Welcome to Alegra Visuals our offerings"}]}function e(){return o.jsx("div",{children:"ourOfferings"})}const s=r(e);export{s as default,i as meta};

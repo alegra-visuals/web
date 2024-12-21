@@ -1,0 +1,1 @@
+import{w as e}from"./with-props-BRvT_Vc6.js";import{l as o}from"./chunk-D52XG6IA-BAiBbVq_.js";function i({}){return[{title:"Alegra Visuals Technology - Visual Technology"},{name:"description",content:"Welcome to Alegra Visuals Technology"}]}function n(){return o.jsx(o.Fragment,{children:o.jsx("div",{children:"visual-technology"})})}const s=e(n);export{s as default,i as meta};

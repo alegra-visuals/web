@@ -1,0 +1,1 @@
+import{w as i}from"./with-props-BRvT_Vc6.js";import{l as n}from"./chunk-D52XG6IA-BAiBbVq_.js";function e({}){return[{title:"Alegra Visuals Technology - Mission & Vision"},{name:"description",content:"Welcome to Alegra Visuals mission and vision"}]}function o(){return n.jsx("div",{children:"mission-and-vision"})}const r=i(o);export{r as default,e as meta};

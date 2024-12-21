@@ -1,0 +1,1 @@
+import{w as i}from"./with-props-BRvT_Vc6.js";import{l as o}from"./chunk-D52XG6IA-BAiBbVq_.js";function l({}){return[{title:"Alegra Visuals Technology - Affiliation for Diploma"},{name:"description",content:"Welcome to Alegra Visuals affiliation for diploma"}]}function t(){return o.jsx("div",{children:"affiliation-for-diploma"})}const r=i(t);export{r as default,l as meta};

@@ -1,0 +1,1 @@
+import{w as e}from"./with-props-BRvT_Vc6.js";import{l as r}from"./chunk-D52XG6IA-BAiBbVq_.js";function o({}){return[{title:"Alegra Visuals Technology - Entrepreneurship"},{name:"description",content:"Welcome to Alegra Visuals entrepreneurship"}]}function n(){return r.jsx("div",{children:"entrepreneurship"})}const s=e(n);export{s as default,o as meta};

@@ -1,0 +1,1 @@
+import{w as e}from"./with-props-BRvT_Vc6.js";import{l as r}from"./chunk-D52XG6IA-BAiBbVq_.js";function s({}){return[{title:"Alegra Visuals Technology - Research Team"},{name:"description",content:"Welcome to Alegra Visuals research team"}]}function t(){return r.jsx("div",{children:"research-team"})}const n=e(t);export{n as default,s as meta};

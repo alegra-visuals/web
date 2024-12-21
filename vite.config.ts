@@ -11,5 +11,5 @@ export default defineConfig({
     },
   },
   plugins: [reactRouter(), tsconfigPaths()],
-  base:"/web/",
+  // base:"/web/",
 });
